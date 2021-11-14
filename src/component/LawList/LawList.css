@@ -1,0 +1,23 @@
+.BackListBox{
+    background: rgb(255,255,249);
+    background: radial-gradient(circle, rgba(255,255,249,1) 0%, rgba(205,255,253,1) 100%);
+    border-top: 5px;
+    border-top-style: inset;
+    border-top-color : rgb(255,255,249);
+    border-bottom: 5px;
+    border-bottom-style: inset;
+    border-bottom-color : gray;
+}
+.lawScrollHeight{
+    height: 120px;
+}
+
+.TopSearch{
+    height: 50px;
+}
+
+.ListLink{
+    text-decoration: none;
+    border-style: ridge;
+    border-color: #9de0f6;
+}

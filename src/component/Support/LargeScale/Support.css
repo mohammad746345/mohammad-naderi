@@ -1,0 +1,14 @@
+.SupportPersonalityInputs{
+    height: 47px!important;
+    width: 324px;
+    font-family: IRANSansX!important;
+    font-size: 12px;
+}
+
+.SupportPersonalityButton{
+    width: 154px!important;
+    height: 32px!important;
+    color: #0a0a0a!important;
+    background-color: #ffd333!important;
+    border-color: #ffd333!important;
+}

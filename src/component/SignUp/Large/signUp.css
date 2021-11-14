@@ -1,0 +1,89 @@
+.mainSignUp{
+    box-shadow: 0 3px 15px 0 rgba(0, 0, 0, 0.3);
+    height: 667px;
+}
+
+.cardSignUp{
+    background-image: url("../../../images/v916-nunny-635.png");
+    background-size: 100% 100%;
+}
+
+.LoginMobileBackImage{
+    height: 316px;
+}
+
+.LoginMobileBackText{
+    height: 95px;
+    margin-bottom: 59px;
+    padding: 16px 26px;
+    background-image: linear-gradient(to bottom, #fafafa 8%, rgba(249, 249, 249, 0));
+}
+
+.signUp1Button{
+    margin-top: 27px!important;
+    width: 86px!important;
+    background-color: #e7f5f7!important;
+    color: #063037!important;
+    font-family: IRANSansX, serif!important;
+    font-size: 11px!important;
+}
+
+.signUp1Button:hover{
+    background-color: #a2d9e2!important;
+}
+
+.signUp1RightText{
+    height: 40px;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.signUp1RightTextSelect{
+    height: 40px;
+    font-size: 10px;
+    font-weight: bold;
+    background-color: #e7f5f7;
+    border-radius: 5px;
+}
+
+.signUp1RightTextSelect:hover{
+    cursor: pointer;
+}
+
+.signUp1RightText:hover{
+    background-color: #e7f5f7;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.signUp1LeftText{
+    font-size: 10px;
+}
+
+.signUp1LeftTextSelect{
+    font-size: 10px;
+    background-color: #e7f5f7;
+    border-radius: 5px;
+}
+
+.signUp1LeftTextSelect:hover{
+    cursor: pointer;
+}
+
+.signUp1LeftText:hover{
+    background-color: #e7f5f7;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.alertLargeSignUp{
+    position: absolute!important;
+    width: 450px!important;
+    height: 70px!important;
+    top: 220px !important;
+    right: 10%;
+    z-index: 5000;
+}
+
+
+

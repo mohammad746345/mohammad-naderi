@@ -1,0 +1,170 @@
+.mainFirstPart{
+    height: 184px;
+    background-color: #f6f6f6;
+    padding-top: 64px;
+}
+
+.mainFirstPartMobile{
+    height: 85px;
+    background-color: #f6f6f6;
+    /*padding-top: 64px;*/
+}
+
+.firstPartTitle{
+    font-size: 27px;
+    font-weight: bold;
+    padding-bottom: 20px;
+    margin-bottom: 0;
+    height: 100% !important;
+}
+
+.firstPartTitleMobile{
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 16px!important;
+}
+
+.goHome:hover{
+    cursor: pointer;
+}
+
+.goHome p:hover{
+    text-decoration: underline;
+}
+
+.mainFirstNav{
+    height: 122px;
+    background-color: #ffffff;
+    z-index: 5;
+}
+
+.mainFirstNav2{
+    height: 122px;
+    position: fixed;
+    background-color: #ffffff;
+    animation-name: firstNav;
+    animation-duration: 2s;
+    bottom: 0;
+    width: 100%;
+    z-index: 2000;
+}
+
+@keyframes firstNav {
+    0%   {bottom: -122px}
+    25% {bottom: -90px}
+    50% {bottom: -66px}
+    75% {bottom: -32px}
+    100% {bottom: 0}
+}
+
+.mainFirstNavMobile{
+    background-color: #f6f6f6;
+    z-index: 5;
+}
+
+.firstNavButton{
+    height: 55px;
+    border-radius: 5px;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16);
+    background-color: #a2d9e2!important;
+}
+
+.firstNavButton:hover{
+    background-color: #45b4c6!important;
+}
+
+.mainInformPart{
+    background-color: #f6f6f6;
+}
+
+.mainInformPartMobile{
+    background-color: #f6f6f6;
+}
+
+.informPartMobileText ul {
+    font-size: 11px;
+}
+
+.informPartMobileText h3 {
+    font-size: 16px;
+    text-align: center;
+}
+
+.mainTeacherBox{
+    height: 482px;
+}
+
+.mainTeacherBoxMobile{
+    height: 381px;
+}
+
+.teacherSliderIcon{
+    color: #a6a6a6!important;
+}
+
+.teacherImage1{
+    padding: 236px 5% 0 0!important;
+    border-radius: 10px;
+    background-size: 243px 220px;
+    background-repeat: no-repeat;
+    text-align: justify;
+}
+
+.teacherImage1Mobile{
+    height: 166px;
+    border-radius: 10px 10px 0 0;
+    background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0.3) 10%, rgba(0, 0, 0, 0.3) 10%, rgba(0, 0, 0, 0.3) 10%, rgba(0,0,0,0) 70%),url("../../images/Teacher1.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.teacherImage2{
+    padding: 236px 5% 0 0!important;
+    border-radius: 10px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.teacherName{
+    font-size: 27px;
+    font-weight: bold;
+    position: absolute;
+    top: 174px;
+    color: white;
+}
+
+.teacherNameMobile{
+    font-size: 19px;
+    font-weight: bold;
+    color: white;
+    padding-right: 3%;
+}
+
+.lawLogoCourse{
+    position: absolute;
+    top: 262px;
+    left: 434px;
+    z-index: 0!important;
+}
+
+.scaleLogoCourse{
+    position: absolute;
+    top: 659px;
+    left: 23px;
+    z-index: 0!important;
+}
+
+.teachLogoCourse{
+    position: absolute;
+    top: 1018px;
+    right: 56px;
+    z-index: 0!important;
+}
+
+.loadingComp{
+    padding-top: 10%;
+}
+
+.courseCarouselItems{
+    max-width: 320px;
+}

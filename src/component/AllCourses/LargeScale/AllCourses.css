@@ -1,0 +1,30 @@
+.cardImageHomeCourses{
+    height: 159px;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.75) 3%, rgba(0, 0, 0, 0.5) 97%), url("../../../images/allCourses.png");
+    border-radius: 10px 10px 0 0;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    color: white;
+    font-size: 27px;
+    font-weight: bold;
+    padding: 16px;
+    text-align: justify;
+}
+
+.cardButtonHomeCourses{
+    height: 76px;
+    background-color: #a2d9e2!important;
+    border-color: #a2d9e2!important;
+    border-radius: 0 0 10px 0!important;
+    font-weight: bold!important;
+    color: black!important;
+}
+
+.allCourseCardsTextTitle{
+    font-size: 14px;
+    margin-left: 5%;
+}
+
+.allCourseCardsText{
+    font-size: 14px;
+}

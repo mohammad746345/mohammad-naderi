@@ -1,0 +1,11 @@
+.CategoryBody{
+    height: 700px;
+}
+
+.CustomToggle:hover{
+    cursor: pointer;
+}
+
+.LawList{
+    height: 600px;
+}

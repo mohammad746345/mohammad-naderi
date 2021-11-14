@@ -1,0 +1,17 @@
+.Searcher{
+    height: 70px;
+}
+
+.SearchList{
+    margin: 0 11% 0 5%;
+    z-index: 10;
+}
+
+.ulDisplay{
+    display: none;
+}
+.liTranslate:hover{
+    z-index: 11;
+    transform: scale(1.01);
+    border-color: #0dcaf0;
+}

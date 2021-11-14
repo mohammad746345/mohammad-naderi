@@ -1,0 +1,36 @@
+.mainService{
+    height: 442px;
+    background-color: #f3f3f3;
+}
+
+.LawSVG{
+    position: absolute;
+    height: 160px;
+    width: 160px;
+    top: 54px;
+    right: 98px;
+    z-index: 0;
+}
+
+.ScalesSVG{
+    position: absolute;
+    width: 256px;
+    height: 256px;
+    top: 313px;
+    left: 70px;
+    z-index: -1;
+}
+
+.Boxes{
+    border-radius: 4px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+}
+
+.Boxes:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+.btnOfBox{
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+}

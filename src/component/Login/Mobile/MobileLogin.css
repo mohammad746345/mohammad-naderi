@@ -1,0 +1,13 @@
+.LoginMobileBackImage{
+    height: 316px;
+    background-image: url("../../../images/v916-nunny-635-mobile.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.LoginMobileBackText{
+    height: 95px;
+    margin-bottom: 59px;
+    padding: 16px 26px;
+    background-image: linear-gradient(to bottom, #fafafa 8%, rgba(249, 249, 249, 0));
+}

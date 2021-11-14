@@ -1,0 +1,18 @@
+.Back{
+    background-color: #fffae6;
+    height: 500px;
+    -webkit-box-shadow: 0px 16px 9px -11px #FFE4A0;
+    box-shadow: 0px 16px 9px -11px #FFE4A0;
+}
+
+.Logo_search{
+    -webkit-filter: drop-shadow(5px 5px 5px #222 );
+    filter: drop-shadow(5px 5px 5px #222);
+    opacity: 0.8;
+}
+
+.BackImage{
+    background-image: url("../../images/background1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}

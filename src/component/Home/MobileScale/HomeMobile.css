@@ -1,0 +1,53 @@
+.mainHomeMobileService{
+    height: 340px;
+    background-color: #fcfcfc;
+}
+
+.mainHomeMobileAimService{
+    height: 185px;
+    background-color: #f3f3f3;
+}
+
+.mainHomeMobileInform{
+    height: 192px;
+    background-color: #fcfcfc;
+}
+
+.mainHomeMobilePersonCard{
+    height: 440px;
+    background: rgb(69,180,198);
+    background: linear-gradient(0deg, rgba(69,180,198,1) 0%, rgba(239,239,239,1) 100%);
+}
+
+.btnHomeMobileAimService{
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16) !important;
+}
+
+.mainHomeMobileCourses{
+    background-color: #45b4c6;
+    height: 280px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.cardHomeMobileCourse{
+    height: 108px;
+    width: 100%;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.75) 3%, rgba(0, 0, 0, 0.5) 97%), url("../../../images/courses.jpg");
+    background-repeat: no-repeat;
+    background-size: 244px 200px;
+    border-radius: 10px 10px 0 0;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    padding: 5% 15%;
+}
+
+.cardButtonHomeCourseMobile{
+    height: 40px;
+    border-radius: 0 0 10px 10px!important;
+    background-color: #a2d9e2!important;
+    border-color: #a2d9e2!important;
+    color: black!important;
+    font-weight: bold!important;
+}

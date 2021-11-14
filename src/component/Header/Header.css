@@ -1,0 +1,37 @@
+.headerPosition{
+    position: fixed;
+    z-index: 20;
+    top: 0;
+}
+
+.mainMobileHeader{
+    position: static;
+    height: 56px;
+    top: 0;
+    z-index: 20;
+    box-shadow: 0 5px 6px 0 rgba(0, 0, 0, 0.16)!important;
+}
+
+.sidebarButtonMobile:hover{
+    color: white!important;
+}
+
+.sidebarButtonMobile div span:hover{
+    color: white!important;
+}
+
+.exitButtonMobile div span:hover{
+    color: white!important;
+}
+
+.exitButtonMobile div span:hover{
+    color: white!important;
+}
+
+.exitButtonMobile:hover{
+    color: white!important;
+}
+
+.sidebarCloseButtonMobile:hover{
+    cursor: pointer;
+}

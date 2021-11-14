@@ -1,0 +1,31 @@
+.Logo{
+    opacity: 0.2;
+    filter: drop-shadow(5px 5px 5px #222);
+}
+
+@media only screen and (min-width: 768px) {
+    .mainLargeFooter{
+        height: 200px;
+        background-color: #00aeef;
+        border-radius: 200px 0 0 0;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .mainLargeFooter{
+        height: 735px;
+        background-color: #00aeef;
+        border-radius: 20px 0 0 0;
+    }
+}
+
+
+.mainLargeFooterTopics{
+    font-size: 16px;
+    color: white;
+}
+
+.mainLargeFooterTopics:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}

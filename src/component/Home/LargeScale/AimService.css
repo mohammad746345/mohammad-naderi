@@ -1,0 +1,30 @@
+.aimService{
+    height: 432px;
+    width: 100%;
+    background-image: url("../../../images/InformBack.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*.aimService::before{*/
+/*    content: "";*/
+/*    background-color:rgba(255, 255, 255, 0.8);*/
+/*    position: absolute;*/
+/*    top: 510px;*/
+/*    right: 0;*/
+/*    height: 432px;*/
+/*    bottom: 0;*/
+/*    left: 0;*/
+/*}*/
+
+.aimBox{
+    position: absolute;
+    height: 460px;
+    top: 647px;
+    border-radius: 1%;
+    padding: 94px 35px 94px 35px;
+}
+
+.btnAim{
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16) !important;
+}

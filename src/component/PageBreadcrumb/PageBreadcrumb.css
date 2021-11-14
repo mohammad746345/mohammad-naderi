@@ -1,0 +1,12 @@
+.breadcrumbLink{
+    margin-right: 10px;
+}
+
+.breadcrumbBackColor{
+    background-color: #fcfcfc;
+}
+
+.breadcrumbHome{
+    text-decoration: none!important;
+    border: none!important;
+}

@@ -1,0 +1,45 @@
+.mainInform{
+    height: 450px;
+}
+
+.bigBox{
+    height: 244px;
+    border-radius: 10px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    border: solid 3px #fcfcfc;
+    background-color: #fff;
+}
+
+.bigBox:hover{
+    transform: scale(1.01);
+}
+
+.smallBox{
+    height: 244px;
+}
+
+.smallBox:hover{
+    transform: scale(1.01);
+}
+
+.btnStyle{
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+}
+
+.LawBookSVG{
+    position: absolute;
+    width: 211px;
+    height: 256px;
+    right: 43px;
+    top: 1413px;
+    z-index: -1;
+}
+
+.LawyerSVG{
+    position: absolute;
+    width: 256px;
+    height: 256px;
+    left: 30px;
+    top: 1583px;
+    z-index: -1;
+}

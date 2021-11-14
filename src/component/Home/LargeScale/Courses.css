@@ -1,0 +1,44 @@
+.mainHomeCourses{
+    height: 661px;
+    background-color: #f3f3f3;
+    padding-top: 136px;
+}
+
+.cardImageHomeCourse{
+    height: 220px;
+    width: 100%;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.75) 3%, rgba(0, 0, 0, 0.5) 97%), url("../../../images/courses.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 10px 10px 0 0;
+    font-size: 27px;
+    font-weight: bold;
+    color: white;
+    padding: 10% 14%;
+    text-align: right;
+}
+
+.cardButtonHomeCourse{
+    height: 55px;
+    background-color: #a2d9e2!important;
+    border-color: #a2d9e2!important;
+    border-radius: 0 0 10px 10px!important;
+    font-weight: bold!important;
+    color: black!important;
+}
+
+.HomeCarouselArrows{
+    position: absolute;
+    opacity: 1;
+    z-index: 1000;
+    cursor: pointer;
+    color: #858585;
+}
+
+.HomeCarouselArrows:hover{
+    opacity: 0.6;
+}
+
+.multiCarouselItems{
+    z-index: 5;
+}

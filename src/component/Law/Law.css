@@ -1,0 +1,22 @@
+.LawBackground{
+    background: linear-gradient(110deg, #dbf4ff 40%, #fffddb 60%);
+}
+
+.LawImageBackground{
+    background-image: url('../../images/cadr.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.titlePosition{
+    margin: 0 5%;
+}
+.textPosition{
+    padding: 10% 10%;
+}
+
+.lawText{
+    text-align: justify;
+    text-justify: inter-word;
+    line-height: 1cm;
+}

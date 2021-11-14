@@ -1,0 +1,80 @@
+.LoginMobileBackImage{
+    height: 316px;
+}
+
+.LoginMobileBackText{
+    height: 95px;
+    margin-bottom: 59px;
+    padding: 16px 26px;
+    background-image: linear-gradient(to bottom, #fafafa 8%, rgba(249, 249, 249, 0));
+}
+
+.MobileSignUpBackImage{
+    background-image: url("../../../images/singup_mobile_back.png");
+    height: 316px;
+    background-size: 100% 100%;
+    padding-bottom: 8px;
+}
+
+.signUp1RightTextMobile{
+    height: 24px;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.signUp1RightTextSelectMobile{
+    height: 24px;
+    font-size: 10px;
+    font-weight: bold;
+    background-color: #e7f5f7;
+    border-radius: 5px;
+}
+
+.signUp1RightTextSelectMobile:hover{
+    cursor: pointer;
+}
+
+.signUp1RightTextMobile:hover{
+    background-color: #e7f5f7;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.signUp1LeftTextMobile{
+    font-size: 10px;
+}
+
+.signUp1LeftTextSelectMobile{
+    font-size: 10px;
+    background-color: #e7f5f7;
+    border-radius: 5px;
+}
+
+.signUp1LeftTextSelectMobile:hover{
+    cursor: pointer;
+}
+
+.signUp1LeftTextMobile:hover{
+    background-color: #e7f5f7;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.signUp1ButtonMobile{
+    margin-top: 16px!important;
+    width: 123px!important;
+    background-color: #e7f5f7!important;
+    color: #063037!important;
+    font-family: IRANSansX, serif!important;
+    font-size: 11px!important;
+}
+
+.BackArrowOfSignUp{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.BackArrowOfSignUp:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}

@@ -1,0 +1,73 @@
+
+.mainLogin{
+    box-shadow: 0 3px 15px 0 rgba(0, 0, 0, 0.3);
+    height: 667px;
+}
+
+
+.cardLogin {
+    background-image: url("../../../images/v916-nunny-635.png");
+    background-size: 100% 100%;
+}
+
+@media (max-width: 976px) {
+    .cardLogin {
+        height: 38rem;
+        padding-bottom: 0px;
+    }
+  }
+  @media (max-width: 760px) {
+    .cardLogin {
+        height: 27rem;
+        padding-bottom: 0px;
+    }
+  }
+.textOne{
+    color: #0d616e;
+    font-size: 12px;
+}
+.textTwo{
+    font-size: 9px;
+    color: #00af88;
+    margin-top: 10px;
+}
+.mainLogin1{
+    padding: 5.5rem ;
+    padding-bottom: 4rem;
+}
+
+.button1{
+    color: #063037;
+    background-color: #A2D9E2 !important;
+    margin-top: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.buttonOfLogin1{
+    background: #e7f5f7!important;
+    color: #063037!important;
+    width: 118px!important;
+    font-size: 11px!important;
+}
+
+.buttonOfLogin1:hover{
+    background: #a2d9e2!important;
+}
+
+.alertLargeLogin{
+    position: absolute!important;
+    width: 450px!important;
+    height: 70px!important;
+    top: 220px !important;
+    right: 10%;
+    z-index: 5000;
+}
+
+.alertMobileScaleLogin{
+    position: absolute!important;
+    width: 300px!important;
+    height: 75px!important;
+    top: 420px !important;
+    right: 10%;
+    z-index: 5000;
+}
